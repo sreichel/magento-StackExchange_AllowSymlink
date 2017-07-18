@@ -1,0 +1,13 @@
+{
+    "name": "sr/sr_allowsymlink",
+    "type": "magento-module",
+    "description": "Brings back Allow Symlonk option after SUPEE-9767 V2",
+    "homepage": "https://github.com/sreichel/magento-Sr_AllowSymlink",
+    "authors": [
+        {
+            "name": "Sven Reichel",
+            "email": "github-sr@hotmail.com",
+            "role": "Author/Maintainer"
+        }
+    ]
+}

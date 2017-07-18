@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Sr_AllowSymlink>
+            <version>0.0.1</version>
+        </Sr_AllowSymlink>
+    </modules>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sr_AllowSymlink>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Sr_AllowSymlink>
+    </modules>
+</config>
