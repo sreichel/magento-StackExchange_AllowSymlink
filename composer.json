@@ -1,8 +1,8 @@
 {
-    "name": "sr/sr_allowsymlink",
+    "name": "sr/sr-allowsymlink",
     "type": "magento-module",
     "description": "Brings back Allow Symlonk option after SUPEE-9767 V2",
-    "homepage": "https://github.com/sreichel/magento-Sr_AllowSymlink",
+    "homepage": "https://github.com/sreichel/magento-Sr-AllowSymlink",
     "authors": [
         {
             "name": "Sven Reichel",
