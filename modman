@@ -1,2 +1,1 @@
-src/app/code/community/Sr/AllowSymlink    app/code/community/Sr/AllowSymlink/
-src/app/etc/modules/Sr_AllowSymlink.xml   app/etc/modules/Sr_AllowSymlink.xml
+src/app/etc/local.SUPEE-9767.xml   app/etc/local.SUPEE-9767.xml
