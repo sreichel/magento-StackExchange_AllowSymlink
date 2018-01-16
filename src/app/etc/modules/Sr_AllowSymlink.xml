@@ -4,6 +4,9 @@
         <Sr_AllowSymlink>
             <active>true</active>
             <codePool>community</codePool>
+            <depends>
+                <Mage_Core />
+            </depends>
         </Sr_AllowSymlink>
     </modules>
 </config>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+    <sections>
+        <dev>
+            <groups>
+                <template>
+                    <show_in_default>1</show_in_default>
+                    <fields>
+                        <allow_symlink>
+                            <show_in_default>1</show_in_default>
+                            <backend_model>sr_allowsymlink/system_config_backend_symlink</backend_model>
+                        </allow_symlink>
+                    </fields>
+                </template>
+            </groups>
+        </dev>
+    </sections>
+</config>
