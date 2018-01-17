@@ -8,7 +8,7 @@
                     <fields>
                         <allow_symlink>
                             <show_in_default>1</show_in_default>
-                            <backend_model>sr_allowsymlink/system_config_backend_symlink</backend_model>
+                            <backend_model>core/config_data</backend_model>
                         </allow_symlink>
                     </fields>
                 </template>

@@ -2,14 +2,7 @@
 <config>
     <modules>
         <Sr_AllowSymlink>
-            <version>0.0.2</version>
+            <version>1.1.0</version>
         </Sr_AllowSymlink>
     </modules>
-    <global>
-        <models>
-            <sr_allowsymlink>
-                <class>Sr_AllowSymlink_Model</class>
-            </sr_allowsymlink>
-        </models>
-    </global>
 </config>
