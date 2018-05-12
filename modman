@@ -1,2 +1,2 @@
-src/app/code/community/Sr/AllowSymlink    app/code/community/Sr/AllowSymlink/
-src/app/etc/modules/Sr_AllowSymlink.xml   app/etc/modules/Sr_AllowSymlink.xml
+src/app/code/community/StackExchange/AllowSymlink    app/code/community/StackExchange/AllowSymlink/
+src/app/etc/modules/StackExchange_AllowSymlink.xml   app/etc/modules/StackExchange_AllowSymlink.xml
