@@ -1,6 +1,5 @@
 {
-    "name": "stackexchange/stackexchange-allowsymlink",
-    "type": "magento-module",
+    "name": "mse-sv3n/allowsymlinks",
     "description": "Brings back 'Allow Symlink' option after SUPEE-9767 V2",
     "homepage": "https://magento.stackexchange.com/questions/184184/how-to-enable-symlinks-after-supee-9767-v2-install/184185#184185",
     "authors": [
@@ -9,5 +8,9 @@
             "email": "github-sr@hotmail.com",
             "role": "Author/Maintainer"
         }
-    ]
+    ],
+    "license": [
+        "OSL-3.0"
+    ],
+    "type": "magento-module"
 }
