@@ -3,7 +3,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c54864d6ec544d6aa00c11f747a4ce39)](https://www.codacy.com/app/sreichel/magento-StackExchange_AllowSymlink?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sreichel/magento-StackExchange_AllowSymlink&amp;utm_campaign=Badge_Grade)
 [![Maintainability](https://api.codeclimate.com/v1/badges/de5eb4d457411e58c485/maintainability)](https://codeclimate.com/github/sreichel/magento-StackExchange_LockAttributes/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/de5eb4d457411e58c485/test_coverage)](https://codeclimate.com/github/sreichel/magento-StackExchange_LockAttributes/test_coverage)
-[![Support](https://img.shields.io/badge/paypal-donate-lightblue.svg?logo=paypal)](https://codeclimate.com/github/sreichel/magento-StackExchange_LockAttributes/test_coverage)
+[![Support](https://img.shields.io/badge/paypal-donate-lightblue.svg?logo=paypal)](https://www.paypal.me/sv3n1)
 
 ## Facts
 - [extension at github.com](https://github.com/sreichel/magento-StackExchange_AllowSymlink)
@@ -39,7 +39,7 @@ composer remove mse-sv3n/allowsymlinks
 ```
 
 ### Support
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/sreichel/magento-StackExchange_LockAttributes/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/sreichel/magento-StackExchange_AllowSymlink/issues).
 
 ### Contribution
 Any contribution is highly appreciated. The best way to contribute code is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
